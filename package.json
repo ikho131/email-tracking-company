@@ -1,1 +1,10 @@
+{
+  "name": "email-tracking-company",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node api/pixel.js",
+    "build": "echo 'no build needed'"
+  }
+}
 
